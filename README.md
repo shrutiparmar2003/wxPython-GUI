@@ -29,6 +29,7 @@ pip install wxPython
 Running the application
 ```bash
 python app.py
+python advanced.py
 ```
 
 
